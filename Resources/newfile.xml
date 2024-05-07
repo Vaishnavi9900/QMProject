@@ -1,0 +1,12 @@
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="PRFlowOperations.MtReqRejApprover">
+		<methods>
+			<include name="mreqrejlist"/>
+		</methods>
+				
+			</class>
+		</classes>
+	</test>
+</suite>
